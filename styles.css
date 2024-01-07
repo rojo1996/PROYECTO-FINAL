@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  background-image: url('images/195455658-excavadora-de-rueda-de-cangilones-gigante-en-un-tajo-abierto-de-carbón-industria-minera.jpg'); /* Ruta de la imagen de fondo */
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #00000005;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: hsl(51, 100%, 50%);
+}
+
+.main-button {
+  background-color: #ffff0000;
+  color: rgb(17, 182, 233);
+  padding: 10px;
+  margin: 5px;
+  cursor: pointer;
+  border: 2px solid #ffc400;
+  
+}
+
+.button-image {
+  border: 2px solid #ffc400;
+  width: 100px;
+  height: 100px; 
+}
+.button-container {
+  text-align: right; 
+  margin-top: 20px;
